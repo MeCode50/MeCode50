@@ -2,11 +2,242 @@ Hi there, [](https://user-images.githubusercontent.com/18350557/176309783-078594
 
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
-A software engineer with so much zest in building and managing software products
+I'm Victory Munachimso, a software engineer with so much zest in building and managing software products
 
 
-## 👨‍💻 Stack & Languages 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/> <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt="React Router Badge"/> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python Badge"/> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="LinkedIn Badge"/> <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="LinkedIn Badge"/>
+## About Me
+
+- **Frontend Web Development**: Passionate about crafting responsive and dynamic web applications with **Next.js**, **React.js**, and **Progressive Web Apps (PWA)**.
+- **Backend Development**: Experienced in building robust backend solutions using **Nest.js**, **Node.js**, **Express.js**, **MySQL**, **MongoDB**, and **Prisma ORM**.
+- **Self-Hosted Infrastructure**: Expert in setting up and managing self-hosted infrastructure, including **VPS/VDS**, **Coolify**, **Cloudflare**, DNS configurations, **CDN**, and **load balancing**.
+- **DevOps**: Proficient in DevOps practices, utilizing tools like **Caddy**, **Docker**, **AWS**, and **GCP** for continuous integration, deployment, and infrastructure management.
+- **Cross-Platform Mobile Development**: Skilled in building high-performance mobile applications with **React Native**, **Expo**, and **Flutter (Dart)**.
+- **Automation & Robotics**: Enthusiastic about automation and robotics, with hands-on experience using **Arduino** and **Raspberry Pi** for innovative projects.
+
+---
+
+
+
+## 👨‍💻 Stack & Languages Used
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+    <tr>
+        <td align='center'>
+           <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-plain.svg"> 
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>Python</samp>
+        </td>
+        <td align='center'>
+            <samp>Javascript</samp>
+        </td>
+        <td align='center'>
+            <samp>Typescript</samp>
+        </td>
+        <td align='center'>
+            <samp>Dart</samp>
+        </td>
+        <td align='center'>
+            <samp>PHP</samp>
+        </td>
+        <td align='center'>
+            <samp>Java</samp>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+<p>
+<samp>
+    Tools, Libraries and Frameworks Used
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/express.png" style="object-fit: contain;">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/flask.png" style="object-fit: contain;">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="./assets/ejs-icon.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>React/React Native</samp>
+        </td>
+        <td align='center'>
+            <samp>ExpressJS</samp>
+        </td>
+        <td align='center'>
+            <samp>NodeJS</samp>
+        </td>
+        <td align='center'>
+            <samp>Flask</samp>    
+        </td>
+        <td align='center'>
+            <samp>Redux</samp>
+        </td>
+        <td align='center'>
+            <samp>SASS/SCSS</samp>
+        </td>
+        <td align='center'>
+            <samp>EJS</samp>
+        </td>
+        <td align='center'>
+            <samp>jQuery</samp>
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/socketio/socketio-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>Socket.IO</samp>
+        </td>
+        <td align='center'>
+            <samp>Flutter</samp>
+        </td>
+        <td align='center'>
+            <samp>NextJS</samp>
+        </td>
+        <td align='center'>
+            <samp>Prisma</samp>
+        </td>
+        <td align='center'>
+            <samp>Laravel</samp>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+<!-- <p>
+<samp>
+    Cloud Infrastructure
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+</table>
+
+<br /> -->
+
+<p>
+<samp>
+    Containerization
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>Docker</samp>
+        </td>
+    </tr>
+</table>
+
+<br />
+
+<p>
+<samp>
+    Databases Used
+</samp>
+</p>
+
+<table cellpadding='0' border='0px' cellspacing='0'>
+    <tr>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+        </td>
+        <td align='center'>
+            <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-original.svg">
+        </td>
+    </tr>
+    <tr>
+        <td align='center'>
+            <samp>MongoDB</samp>
+        </td>
+        <td align='center'>
+            <samp>SQLite</samp>
+        </td>
+        <td align='center'>
+            <samp>MySQL</samp>
+        </td>
+        <td align='center'>
+            <samp>PostgreSQL</samp>
+        </td>
+        <td align='center'>
+            <samp>Firebase</samp>
+        </td>
+    </tr>
+</table>
+
+---
 
 ## 📱 Contact Me
 
@@ -19,16 +250,6 @@ A software engineer with so much zest in building and managing software products
   </a>
 </div>
 
-
-## 👀 Vistors Count
-
-<img src="https://profile-counter.glitch.me/MeCode50/count.svg" />
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MeCode50&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-## ⌨️ Most Used Languages 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeCode50&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 📊 GitHub Stats
